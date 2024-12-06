@@ -5,12 +5,12 @@ Git 커밋 메시지를 작성할 때 통일된 형식을 유지하면 협업과
 ---
 
 ## **Commit Message Structure**
-'''
+ ```
     <type>: <subject>
 
     <description>
 
-'''
+ ```
 
 ## Type
 | 타입      | 설명                                                                 |
